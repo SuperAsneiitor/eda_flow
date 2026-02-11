@@ -24,3 +24,5 @@ source ../scr/mode/set_mode.tcl
 source ../scr/group_path.tcl
 
 write_checkpoint ../DB/${design}.${cur_step}.${version}.db
+
+exit
