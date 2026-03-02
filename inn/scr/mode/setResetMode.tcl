@@ -1,0 +1,13 @@
+setAnalysisMode  -reset
+setCCOptMode     -reset
+setCTSMode       -reset
+setDelayCalMode  -reset
+setDesignMode    -reset
+setEcoMode       -reset
+setExtractRCMode  -reset
+setFillerMode     -reset
+setNanoRouteMode  -reset
+setOptMode        -reset
+setPlaceMode      -reset
+setRouteMode      -reset
+setSIMode         -reset
