@@ -1,6 +1,8 @@
 # Partition flow 说明：
 ## 输入件: 
   1. design Place DB
+  2. partition flow脚本（inn/my_scr/partition_design.tcl）：
+     <img width="1913" height="249" alt="PixPin_2026-03-03_16-05-19" src="https://github.com/user-attachments/assets/5bbc7208-f089-4331-bbc0-738e951ea5b5" />
 ## 操作步骤：
   1. 加载design Place DB
   2. 加载主脚本，执行partition flow
